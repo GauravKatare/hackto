@@ -1,1 +1,1 @@
-hacktoberfest-accepted
+hacktoberfest-acceptedhacktoberfest-accepted
